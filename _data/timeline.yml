@@ -14,18 +14,22 @@
   from: September 2024
   to: June 2025
   description: |
-    • Developed an embedded sensor system powered by an e-bike battery for data collection during cycling.  
-    • Installed and maintained the full setup using Raspberry Pi and sensor interfaces, logging telemetry and metrics.  
-    • Built a complete web application stack (PostgreSQL + FastAPI + React) to visualize sensor data.  
-    • Completed both Bachelor theses with a combined hardware–software approach.  
+    <ul>
+      <li>Developed an embedded sensor system powered by an e-bike battery for data collection during cycling.</li>
+      <li>Installed and maintained the full setup using Raspberry Pi and sensor interfaces, logging telemetry and metrics.</li>
+      <li>Built a complete web application stack (PostgreSQL + FastAPI + React) to visualize sensor data.</li>
+      <li>Completed both Bachelor theses with a combined hardware–software approach.</li>
+    </ul> 
 
 - title: Programming Intern. Inetum, Bilbao, Spain
   from: March 2023
   to: May 2023
   description: |
-    • Contributed as a programmer in a consulting project for Scottish Power in the reporting team.  
-    • Automated manual tasks using Python and SQL.  
-    • Designed data filtering and transformation processes to replace Excel-based workflows.  
+    <ul>
+      <li>Contributed as a programmer in a consulting project for Scottish Power in the reporting team.</li>
+      <li>Automated manual tasks using Python and SQL.</li>
+      <li>Designed data filtering and transformation processes to replace Excel-based workflows.</li>
+    </ul> 
 
 - title: Bachelor's degree in Industrial Electronics and Automation + Computer Engineering. University of Deusto, Bilbao, Spain 
   from: September 2020

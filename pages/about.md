@@ -29,9 +29,9 @@ If you happen to like this page and want to connect, feel free to reach out! Iâ€
 
 <div class="row">
   <div class="col-lg-6 col-md-12 mb-4">
-    {% include about/timeline-work.html %}
+    {% include about/timeline.html %}
   </div>
   <div class="col-lg-6 col-md-12 mb-4">
-    {% include about/timeline-academic.html %}
+    {% include about/timeline.html %}
   </div>
 </div>

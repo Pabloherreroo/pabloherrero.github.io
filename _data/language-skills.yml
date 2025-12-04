@@ -1,0 +1,15 @@
+- name: Spanish
+  percentage: 100
+  color: danger
+
+- name: English
+  percentage: 95
+  color: warning
+
+- name: French
+  percentage: 70
+  color:
+
+- name: Chinese
+  percentage: 25
+  color: secondary

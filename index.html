@@ -1,1 +1,138 @@
+---
+layout: default  # Uses the default theme layout
+title: Elias Vance | AI & Applied Robotics Portfolio
+description: Portfolio of an MSc candidate specializing in Machine Learning, Embedded Systems, and IoT.
+header:
+  image: /images/bg_hero.jpg # Placeholder for a background image
+---
 
+<header class="masthead">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <img class="img-fluid rounded-circle mb-3" src="/images/profile_elias.jpg" alt="Elias Vance Profile Picture" style="max-width: 200px;">
+        <h1 class="text-uppercase mb-4">Hello, I'm **Elias Vance**</h1>
+        <p class="lead mb-5">
+          MSc Candidate in AI with a foundation in Electronics Engineering. I bridge the gap between complex algorithms and physical systems, specializing in **Embedded ML** and **Real-Time Data Processing**.
+        </p>
+        <a class="btn btn-primary btn-xl" href="#projects">View My Projects</a>
+        <a class="btn btn-secondary btn-xl ml-3" href="#contact">Get in Touch</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section id="about" class="page-section">
+  <h2>🧠 About Me</h2>
+  <p>I started my career in electronics, designing robust PCBs and embedded systems. This background gives me a unique perspective on optimizing machine learning models not just for accuracy, but also for **resource efficiency**—crucial for edge computing and IoT devices.</p>
+  <p>Currently pursuing my Master's in Artificial Intelligence, I focus on reinforcement learning, computer vision, and deploying scalable MLOps pipelines using Python, TensorFlow, and AWS services.</p>
+  
+  <h3 class="mt-5">Key Skills</h3>
+  <ul class="list-inline">
+    <li class="list-inline-item badge badge-skill">Python (TensorFlow/PyTorch)</li>
+    <li class="list-inline-item badge badge-skill">C/C++ (Embedded)</li>
+    <li class="list-inline-item badge badge-skill">Linux & ROS</li>
+    <li class="list-inline-item badge badge-skill">Git & CI/CD</li>
+    <li class="list-inline-item badge badge-skill">AWS (S3, EC2, SageMaker)</li>
+    <li class="list-inline-item badge badge-skill">Hardware Prototyping (Raspberry Pi, Arduino)</li>
+  </ul>
+</section>
+
+<section id="experience" class="page-section bg-light">
+  <h2>💼 Experience</h2>
+  
+  <div class="timeline-item">
+    <h4>Machine Learning Intern <span class="text-muted float-right">2024 (6 months)</span></h4>
+    <p class="text-primary mb-1"><strong>Innovatech Robotics</strong>, Berlin, Germany</p>
+    <ul>
+      <li>Optimized a CNN for object detection, achieving a 20% reduction in inference time for deployment on a Jetson Nano edge device.</li>
+      <li>Contributed to a data pipeline for anomaly detection in robotic arm sensor data using Python and Pandas.</li>
+    </ul>
+  </div>
+  
+  <div class="timeline-item mt-4">
+    <h4>Software Development Intern <span class="text-muted float-right">2023 (3 months)</span></h4>
+    <p class="text-primary mb-1"><strong>Circuits Pro</strong>, Eindhoven, Netherlands</p>
+    <ul>
+      <li>Developed an automated testing framework for firmware using Python, reducing manual QA time by 40%.</li>
+      <li>Maintained and documented C codebase for an industrial temperature sensor array.</li>
+    </ul>
+  </div>
+
+  <div class="timeline-item mt-4">
+    <h4>Embedded Systems Assistant (Student Job) <span class="text-muted float-right">2022 – 2023</span></h4>
+    <p class="text-primary mb-1"><strong>MicroTech Solutions</strong>, University Partnered</p>
+    <ul>
+      <li>Assisted in the design and debugging of low-power wireless communication modules (LoRa).</li>
+      <li>Wrote and optimized data logging firmware for battery-powered IoT devices.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="projects" class="page-section">
+  <h2>🛠️ Projects (Academic & Personal)</h2>
+  
+  <div class="row">
+    <div class="col-md-6 mb-4">
+      <div class="card shadow-sm">
+        <img src="/images/proj_rl_nav.png" class="card-img-top" alt="RL Navigation Graphic">
+        <div class="card-body">
+          <h5 class="card-title">**1. Autonomous Pathfinding via PPO**</h5>
+          <p class="card-text">Applied Proximal Policy Optimization (PPO) to train an agent to navigate a complex, dynamic environment, demonstrating high efficiency and collision avoidance.</p>
+          <p class="text-muted small"><em>Skills: Reinforcement Learning, Python, Stable Baselines 3</em></p>
+          <a href="https://github.com/pabloherreroo/rl-pathfinding" class="btn btn-outline-primary btn-sm">GitHub Repo</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 mb-4">
+      <div class="card shadow-sm">
+        <img src="/images/proj_edge_detect.jpg" class="card-img-top" alt="Edge Detection Hardware">
+        <div class="card-body">
+          <h5 class="card-title">**2. Edge Gesture Recognition System**</h5>
+          <p class="card-text">Built an end-to-end system using TensorFlow Lite Micro (TFLM) to classify hand gestures on a low-power microcontroller, achieving 92% accuracy with minimal latency.</p>
+          <p class="text-muted small"><em>Skills: Embedded ML, TFLM, C++, Hardware Optimization</em></p>
+          <a href="https://github.com/pabloherreroo/tflm-gesture-recognition" class="btn btn-outline-primary btn-sm">GitHub Repo</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-6 mb-4">
+      <div class="card shadow-sm">
+        <img src="/images/proj_drone_id.png" class="card-img-top" alt="Drone Identification">
+        <div class="card-body">
+          <h5 class="card-title">**3. Real-Time Aerial Object Tracking**</h5>
+          <p class="card-text">Developed a robust YOLOv5 model for identifying and tracking small aerial objects (drones) in video feeds, used for a final year project in Computer Vision.</p>
+          <p class="text-muted small"><em>Skills: Computer Vision, PyTorch, YOLOv5, OpenCV</em></p>
+          <a href="https://github.com/pabloherreroo/yolov5-aerial-tracker" class="btn btn-outline-primary btn-sm">GitHub Repo</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-6 mb-4">
+      <div class="card shadow-sm">
+        <h5 class="card-title p-3">**4. Predictive Maintenance IoT Hub**</h5>
+        <div class="card-body">
+          <p class="card-text">A scalable IoT architecture that collects telemetry from industrial sensors, detects anomalies using a simple Isolation Forest model, and pushes alerts to a server via MQTT.</p>
+          <p class="text-muted small"><em>Skills: IoT, Python, MQTT, Isolation Forest, AWS S3/Lambda</em></p>
+          <a href="https://github.com/pabloherreroo/iot-predictive-maintenance" class="btn btn-outline-primary btn-sm">GitHub Repo</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="contact" class="page-section bg-dark text-white text-center">
+  <h2>📧 Get in Touch</h2>
+  <p class="lead">I am currently looking for full-time roles starting in 2026. Let's build the future of AI together.</p>
+  <a class="btn btn-light btn-lg mt-3" href="mailto:elias.vance.ai@email.com">Email Me Directly</a>
+  
+  <div class="social-links mt-4">
+    <a href="https://linkedin.com/in/elias-vance-ai" class="text-white mx-3">LinkedIn</a> | 
+    <a href="https://github.com/pabloherreroo" class="text-white mx-3">GitHub</a> | 
+    <a href="/images/Elias_Vance_Resume.pdf" class="text-white mx-3">Download Resume (PDF)</a>
+  </div>
+</section>

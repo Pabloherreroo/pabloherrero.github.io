@@ -1,0 +1,17 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+email:
+  url   : "mailto:"
+  icon  : fas fa-envelope
+  color : dd4b39
+
+github:
+  url   : https://www.github.com/
+  icon  : fab fa-github
+  color : 6e5494
+
+linkedin:
+  url   : https://www.linkedin.com/in/
+  icon  : fab fa-linkedin-in
+  color : 007bb5

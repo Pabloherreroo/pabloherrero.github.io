@@ -1,21 +1,79 @@
-title: Pablo Herrero Ortiz | Digital Portfolio
+title: Pablo Herrero Ortiz
 author: Pablo Herrero Ortiz
 email: pablo.herrort@gmail.com
 timezone: Europe/Amsterdam
-description: "Digital Portfolio of Pablo Herrero Ortiz"
-
-author:
-  github: pabloherreroo 
-  linkedin: pabloherreroortiz
-
+description: "Welcome to my digital portfolio! Do not hesitate to reach out if you have any questions or collaboration ideas."
+repository: pabloherreroo/pabloherreroo.github.io 
 remote_theme: "yousinix/portfolYOU"
+open_new_tab: false
 
-url: "https://pabloherreroo.github.io" 
-baseurl: "" 
-
-markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-remote-theme
+  - jemoji
+
+nav_exclude:
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/** 
+
+### Author Info ###
+author:
+  name              : Pablo Herrero Ortiz
+  image             : "/assets/img/me.jpg"
+# behance           : your_username
+# dribbble          : your_username
+  email             : pablo.herrort@gmail.com
+# facebook          : your_username
+  github            : pabloherreroo
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : pabloherreroortiz
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+### Posts ###
+permalink: /blog/:title
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: G-T02PW3DDSR
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

@@ -1,8 +1,8 @@
 ---
 title: Hackathon IncubaSEN – Spanish Neurology Society (SEN)
 tags: [Hackathon, HealthTech, Neurology, Team projects]
-style: border
-color: success
+style: fill
+color: info
 description: Participated in an interdisciplinary hackathon for neurological startups, designing an educational app for migraine patients.
 ---
 

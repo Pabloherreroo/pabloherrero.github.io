@@ -2,7 +2,7 @@
 title: "Computational Neuroscience: Neuronal Dynamics of Cognition - EPFL"
 tags: [Online course, Neuroscience]
 style: fill
-color: info
+color: success
 description: Explored computational neuroscience and mathematical models behind neuronal dynamics through an online course.
 ---
 

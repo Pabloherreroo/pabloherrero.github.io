@@ -1,7 +1,7 @@
 ---
 title: Social Volunteer – Elderly Residence
 tags: [Volunteering]
-style: border
+style: fill
 color: light
 description: Volunteered in a residence for the elderly, providing basic care and accompaniment during school year.
 ---

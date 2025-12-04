@@ -1,8 +1,7 @@
 title: Pablo Herrero Ortiz | Digital Portfolio
 author: Pablo Herrero Ortiz
 
-remote_theme: pages-themes/minimal@v0.2.0
-
+remote_theme: "Mandorlino/PortfolYOU"
 baseurl: "" 
 url: "https://pabloherrero.github.io" 
 

@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
-  percentage: 80
-  color: blue
-
-- name: C
-  percentage: 80
-  color: purple
-
 - name: Python
+  percentage: 85
+  color: success
+  
+- name: SQL (PostgreSQL, MySQL)
   percentage: 90
-  color: green
+  color:
+
+- name: HTML, CSS, JavaScript
+  percentage: 70
+  color: danger
+
+- name: Figma (UI/UX Design)
+  percentage: 75
+  color: warning
+  
+- name: Other languages: C, Java, R 
+  percentage: 50
+  color: secondary

@@ -1,0 +1,19 @@
+- name: Embedded Systems (Raspberry Pi, STM32 Microcontrollers, vhdl)
+  percentage: 85
+  color: warning
+
+- name: PLC Programming (Siemens S7-1200/1500) & SCADA (WinCC)
+  percentage: 80
+  color: info
+
+- name: MATLAB & Simulink
+  percentage: 70
+  color:
+
+- name: CAD Software (Fusion 360, SolidWorks)
+  percentage: 70
+  color: danger
+
+- name: VHDL programming in FPGAs
+  percentage: 40
+  color: secondary

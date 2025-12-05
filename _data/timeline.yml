@@ -2,37 +2,34 @@
   from: December 2025
   to: Present
   description:
-    Supporting customer adoption of edge-AI accelerators by simulating customer workflows and testing products to surface usability issues and improve user experience.
+    Right now, I am supporting customer adoption of edge-AI accelerators by simulating customer workflows and testing products to surface usability issues and improve user experience.
 
 - title: MSc in Artificial Intelligence & Engineering Systems. Eindhoven University of Technology, Eindhoven, The Netherlands
   from: September 2025
   to: June 2027
   description:
     "Track: High-tech Systems and Robotics"
-    
+
 - title: Research Intern. DeustoTech, Bilbao, Spain 
   from: September 2024
   to: June 2025
-  description: |
-    <ul>
-      <li>Developed an embedded sensor system powered by an e-bike battery for data collection during cycling.</li>
-      <li>Installed and maintained the full setup using Raspberry Pi and sensor interfaces, logging telemetry and metrics.</li>
-      <li>Built a complete web application stack (PostgreSQL + FastAPI + React) to visualize sensor data.</li>
-      <li>Completed both Bachelor theses with a combined hardware–software approach.</li>
-    </ul> 
+  description:  
+    I developed an embedded sensor system powered by an e-bike battery for data collection during cycling.  
+    The full setup was installed using Raspberry Pi and sensor interfaces, while I also designed (via CAD) and built (with 3D printing) the physical enclosure.  
+    Later, I built a complete web application stack (PostgreSQL + FastAPI + React) to visualize sensor data and create informative maps and dashboards.  
+    This job allowed me to complete both Bachelor theses with a combined hardware–software approach and outstanding results.
 
 - title: Programming Intern. Inetum, Bilbao, Spain
   from: March 2023
   to: May 2023
-  description: |
-    <ul>
-      <li>Contributed as a programmer in a consulting project for Scottish Power in the reporting team.</li>
-      <li>Automated manual tasks using Python and SQL.</li>
-      <li>Designed data filtering and transformation processes to replace Excel-based workflows.</li>
-    </ul> 
+  description: 
+    I contributed as a programmer in a consulting project for Scottish Power in the reporting team.  
+    In the project, I was in charge of automating manual tasks using Python and SQL.  
+    I mainly designed data filtering and transformation processes to replace Excel-based workflows.
 
-- title: Bachelor's degree in Industrial Electronics and Automation + Computer Engineering. University of Deusto, Bilbao, Spain 
+- title: Bachelor's degree in Industrial Electronics and Automation Engineering + Computer Engineering. University of Deusto, Bilbao, Spain 
   from: September 2020
   to: June 2025
   description:  
     Dual program with two degrees completed in 5 years (360 ECTS total).
+    Awarded 9.8/10 (Computer Engineering) and 9.3/10 (Industrial Electronics and Automation Engineering) for my Bachelor theses.

@@ -1,3 +1,2 @@
 - projects (with pictures)
-- Include pictures in initiatives
 Tags for projects including group/individual and if available on github

@@ -16,8 +16,8 @@ description: Participated in an interdisciplinary hackathon for neurological sta
 
 <div class="initiative-images">
 
-  <img src="/assets/SEN.jpg" alt="Award image">
+  <img src="/assets/SEN.jpg" alt="Presenting image">
 
-  <img src="/assets/SEN2.jpg" alt="Ceremony image">
+  <img src="/assets/SEN2.jpg" alt="Card image">
 
 </div>

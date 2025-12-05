@@ -17,8 +17,8 @@ description: Selected among 30 students nationwide to participate in a program c
 
 <div class="initiative-images">
 
-  <img src="/assets/pwc.jpg" alt="Award image">
+  <img src="/assets/pwc.jpg" alt="Participants image">
 
-  <img src="/assets/pwc2.jpg" alt="Ceremony image">
+  <img src="/assets/pwc2.jpg" alt="Event image">
 
 </div>

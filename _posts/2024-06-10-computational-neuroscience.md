@@ -15,6 +15,6 @@ description: Explored computational neuroscience and mathematical models behind 
 
 <div class="initiative-images">
 
-  <img src="/assets/EPFL.jpg" alt="Award image">
+  <img src="/assets/EPFL.png" alt="EPFL logo">
 
 </div>
